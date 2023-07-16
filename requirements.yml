@@ -1,5 +1,5 @@
 ---
 roles:
   - name: gavmain.ansible-role-pdns-recursor
-    src: https://github.com/gavmain/ansible-role-dns-recursor
+    src: https://github.com/gavmain/ansible-role-pdns-recursor
     version: master
