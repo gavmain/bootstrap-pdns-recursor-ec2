@@ -4,4 +4,3 @@
 
   roles:
     - gavmain.ansible-role-pdns-recursor
-
